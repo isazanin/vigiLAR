@@ -79,7 +79,7 @@ as funcionalidades de navegação autônoma, monitoramento, detecção de ocorr�
 - Carolina Vitória Celso Nunes — 106749
 - Pedro Henrique Pedroso — 106627
 
-## considerações Finais
+## considerações finais
 
 o projeto vigiLAR busca explorar a integração entre modelagem tridimensional, simulação e tecnologias de robótica para representar uma solução de segurança residencial inteligente.
 
