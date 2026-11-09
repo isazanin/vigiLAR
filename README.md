@@ -1,6 +1,6 @@
 # vigiLAR — Robô Autônomo para Monitoramento e Segurança Residencial
 
-**projeto Acadêmico | turma CDC.6NA**
+**projeto acadêmico | turma CDC.6NA**
 
 ## sobre o projeto
 
