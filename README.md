@@ -52,7 +52,7 @@ O desenvolvimento do projeto está organizado nas seguintes etapas:
 3. Modelagem do ambiente residencial.
 4. Integração dos modelos ao Unity.
 5. Desenvolvimento do ambiente de simulação.
-6. Integração com ROS 2.
+6. Integração com Pygame.
 7. Implementação da navegação autônoma e do desvio de obstáculos.
 8. Desenvolvimento das funcionalidades de monitoramento e segurança.
 9. Realização de testes e validação do sistema.
