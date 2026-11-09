@@ -2,7 +2,7 @@
 
 **projeto Acadêmico | turma CDC.6NA**
 
-## sobre o Projeto
+## sobre o projeto
 
 o **vigiLAR** é um projeto de desenvolvimento de um robô autônomo voltado para o monitoramento e a segurança residencial durante o período noturno.
 
