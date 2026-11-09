@@ -28,8 +28,8 @@ Responsável pelo desenvolvimento da modelagem tridimensional do robô e do ambi
 ### Unity:
 Utilizado para integrar os modelos tridimensionais e desenvolver o ambiente de simulação, permitindo representar o funcionamento e a movimentação do robô pela residência.
 
-### ROS 2
-Framework utilizado para a integração dos componentes de robótica e o controle da navegação autônoma do robô.
+### Pygame
+
 
 ## Funcionalidades previstas
 
