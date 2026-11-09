@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo_lateral.png" alt="Banner vigiLAR" width="100%">
+</p>
+
 # vigiLAR — Robô Autônomo para Monitoramento e Segurança Residencial
 
 **Projeto Acadêmico | Turma CDC.6NA**
