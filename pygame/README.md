@@ -2,13 +2,12 @@
 
 Rodar:
 
-    pip install -r requirements.txt
-    python vigilar.py
-(deixe a imagem `Planta_Baixa_Modern_House.jpeg` na mesma pasta)
+    cd pygame
+pip install -r requirements.txt
+python vigilar.py
 
-Testar (sem abrir janela):
+(deixe a imagem `Planta_Baixa.jpeg` na mesma pasta)
 
-    python testes_vigilar.py
 
 ## Teclas
 Clique esquerdo: ir até o ponto | 1-6: Cozinha, Jantar, Sala, Quarto, Banheiro, Entrada
