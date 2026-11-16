@@ -928,8 +928,8 @@ def enviar_alerta(a):
         with open(ALERT_LOG, "a", encoding="utf-8") as f:
             f.write(json.dumps(a, ensure_ascii=False) + "\n")
     except OSError:
-        pass
-    if ALERT_WEBHOOK:
+        print("ERRO DE SEGURANÇA: não foi possível salvar o alerta.")
+    if ALERT_WEBHOOK and ALERT_WEBHOOK.startswith("https://"):
         try:
             req = urllib.request.Request(ALERT_WEBHOOK, json.dumps(a).encode(),
                                          {"Content-Type": "application/json"})
