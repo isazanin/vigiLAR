@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="logo_lateral.png" alt="Banner vigiLAR" width="100%">
-</p>
+![Banner vigiLAR](imagens/logo_lateral.png)
 
 # vigiLAR — Robô Autônomo para Monitoramento e Segurança Residencial
 
@@ -29,7 +27,11 @@ Responsável pelo desenvolvimento da modelagem tridimensional do robô e do ambi
 Utilizado para integrar os modelos tridimensionais e desenvolver o ambiente de simulação, permitindo representar o funcionamento e a movimentação do robô pela residência.
 
 ### Pygame
+Responsável pelo desenvolvimento do simulador 2D do robô vigiLAR, permitindo testar sua movimentação e navegação pelo ambiente residencial.
 
+O simulador inclui recursos de planejamento de rotas com A*, sensor LiDAR simulado, desvio de obstáculos, patrulhamento autônomo, modo noturno e detecção simulada de movimentações suspeitas.
+
+Os arquivos do simulador, suas dependências e instruções de execução estão disponíveis na pasta [pygame/](pygame/).
 
 ## Funcionalidades previstas
 
@@ -59,21 +61,30 @@ O desenvolvimento do projeto está organizado nas seguintes etapas:
 
 ## Organização do Repositório
 
-O repositório será utilizado para armazenar e documentar os arquivos desenvolvidos ao longo do projeto, incluindo:
+O repositório do **vigiLAR** está organizado nas seguintes pastas:
 
-- Modelos tridimensionais produzidos no Blender.
-- Arquivos do ambiente de simulação no Unity.
-- Códigos e configurações relacionados ao ROS 2.
-- Documentação técnica e acadêmica.
-- Imagens e registros da evolução do projeto.
+- **[Blender](blender/):** modelos 3D do robô, da casa e da planta baixa.
+- **[Unity](unity/):** projeto de simulação tridimensional com a residência e o robô.
+- **[Pygame](pygame/):** simulador 2D, código Python, planta baixa e instruções de execução.
+- **[Imagens](imagens/):** identidade visual e logos do projeto.
+- **[Documentos](documentos/):** documentação acadêmica do vigiLAR.
+- **[Referências](referencias/):** materiais utilizados como referência durante o desenvolvimento.
 
 ## Status do Projeto
 
-**Em desenvolvimento.**
+**Projeto concluído — versão acadêmica.**
 
-O projeto encontra-se em fase de desenvolvimento, com a elaboração da proposta e o trabalho de modelagem tridimensional do robô.
+O **vigiLAR** é um projeto acadêmico de robótica e segurança residencial, com modelagem tridimensional e simulações funcionais.
 
-As funcionalidades de navegação autônoma, monitoramento, detecção de ocorrências e envio de alertas fazem parte do escopo previsto e serão documentadas conforme sua implementação.
+O projeto conta com:
+
+- Modelagem 3D do robô e da residência no Blender.
+- Simulação tridimensional funcional no Unity, com movimentação do robô pelo ambiente residencial.
+- Simulador 2D funcional desenvolvido em Python com Pygame.
+- Recursos simulados de navegação autônoma, LiDAR, patrulhamento e monitoramento residencial no Pygame.
+- Documentação acadêmica e arquivos disponibilizados no GitHub.
+
+O projeto encontra-se concluído para fins de apresentação e avaliação acadêmica.
 
 ## Integrantes
 
