@@ -2,9 +2,12 @@
 
 Rodar:
 
-    cd pygame
+```bash
+cd pygame
 pip install -r requirements.txt
 python vigilar.py
+```
+
 
 (deixe a imagem `Planta_Baixa.jpeg` na mesma pasta)
 
