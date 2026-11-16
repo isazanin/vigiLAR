@@ -70,6 +70,14 @@ O repositório do **vigiLAR** está organizado nas seguintes pastas:
 - **[Documentos](documentos/):** documentação acadêmica do vigiLAR.
 - **[Referências](referencias/):** materiais utilizados como referência durante o desenvolvimento.
 
+## Vídeo Pitch — vigiLAR
+
+Conheça o projeto **vigiLAR — Robô Autônomo para Monitoramento e Segurança Residencial** por meio do nosso vídeo pitch.
+
+O vídeo apresenta a proposta acadêmica e uma visão geral do projeto.
+
+**[Clique aqui para assistir ao vídeo pitch no YouTube](https://youtu.be/R9P-C9x_mQI)**
+
 ## Status do Projeto
 
 **Projeto concluído — versão acadêmica.**
