@@ -106,4 +106,4 @@ O projeto encontra-se concluído para fins de apresentação e avaliação acad�
 
 O projeto vigiLAR busca explorar a integração entre modelagem tridimensional, simulação e tecnologias de robótica para representar uma solução de segurança residencial inteligente.
 
-Por meio da utilização do Blender, Unity e ROS 2, pretende-se desenvolver um ambiente virtual no qual seja possível simular o comportamento de um robô autônomo, sua navegação e suas funcionalidades de monitoramento e segurança.
+Por meio da utilização do Blender, Unity e pygame, pretende-se desenvolver um ambiente virtual no qual seja possível simular o comportamento de um robô autônomo, sua navegação e suas funcionalidades de monitoramento e segurança.
